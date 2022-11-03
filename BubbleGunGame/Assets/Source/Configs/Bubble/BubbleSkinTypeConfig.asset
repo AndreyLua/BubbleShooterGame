@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa2dc67969596394f9572a1a2e4af4ed, type: 3}
+  m_Name: BubbleSkinTypeConfig
+  m_EditorClassIdentifier: 
+  _skins:
+  - {fileID: -474617095750116882, guid: f2cc298160e02a447a1234628dfe8359, type: 3}
+  - {fileID: 8865047667026607573, guid: 5d6a37b50b1178647a72d78f50e5a325, type: 3}
+  - {fileID: -5710063967621709510, guid: 268b6b9a2477be941b183f436051a932, type: 3}
+  - {fileID: 2097183498785186908, guid: cb6db96c85a0e3242a5b56292540ad7a, type: 3}
